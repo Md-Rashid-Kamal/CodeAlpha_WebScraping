@@ -32,6 +32,35 @@ The project collects:
 
 The scraper successfully collected book information and saved it as a CSV dataset.
 
-## Author
+
+
+
+
+## Data Analysis & Visualization
+
+The scraped books dataset was analyzed using Microsoft Excel.
+
+### Analysis Performed
+- Minimum, maximum, average and median book prices
+- Average book rating
+- Rating distribution
+- Average price by rating
+- Lowest and highest priced books
+- Data quality checks for missing and duplicate values
+
+### Visualizations
+- Average Price by Rating
+- Price vs Rating
+- Rating Distribution
+
+### Key Findings
+- Total books analyzed: 20
+- Average book price: 38.0485
+- Minimum book price: 13.99
+- Maximum book price: 57.25
+- Average rating: 2.85
+
+The detailed analysis and visualizations are available in `CodeAlpha second project.pdf`.
+  ## Author
 
 Md Rashid Kamal
